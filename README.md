@@ -25,4 +25,6 @@ Each area (branch) can handle internal communication independently. However, if 
 
 This lab helped me understand how real-world enterprise networks are designed to be modular, scalable, and highly reliable — just like a national call center system ensuring smooth communication across all its branches.
 
+![Lab](lab3.jpg)
+
 ---
